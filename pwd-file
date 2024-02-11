@@ -2,3 +2,4 @@
 echo "The current working directory is $(pwd)"
 echo "This is send after webhooh"
 echo "Third line"
+echo "trigger line added"
