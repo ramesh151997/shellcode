@@ -1,5 +1,6 @@
 #!/bin/bash
+echo "days"
 echo "hi very good morning"
 echo "school days"
-echo "college days
+echo "college days"
 #end
